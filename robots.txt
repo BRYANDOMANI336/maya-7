@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shop-us.kyletezak.com/sitemap.xml
